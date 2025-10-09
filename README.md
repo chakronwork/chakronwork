@@ -23,6 +23,19 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Project "ตบหน้าระบบราชการ" (SDB - School Dashboard)</h3>
+        <p>
+          <a href="https://github.com/chakronwork/education-management-system" target="_blank">
+            <b>View Code</b>
+          </a> | 
+          <a href="https://smart-queue-system-sepia.vercel.app" target="_blank">
+            <b>Live Demo</b>
+          </a>
+        </p>
+      </div>
+    </td>
+
+   <td width="50%">
       <h3 align="center">Smart Queue System</h3>
       <div align="center">
         <a href="https://github.com/chakronwork/smart-queue-system" target="_blank">
@@ -41,6 +54,7 @@
         </p>
       </div>
     </td>
+    
     <td width="50%">
       <h3 align="center">E-commerce Website (PHP)</h3>
       <div align="center">

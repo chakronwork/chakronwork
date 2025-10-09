@@ -29,7 +29,7 @@
           <img src="https://i.postimg.cc/rsmkthyB/7f105568-ec56-4658-bd1c-2afa767f1c12.jpg" alt="School Dashboard Project" />
         </a>
         <p>
-          An education management system designed to streamline school operations.
+          An education management system designed to streamline school operations using PHP & MySQL Open-source 
         </p>
         <p>
           <a href="https://github.com/chakronwork/education-management-system" target="_blank">

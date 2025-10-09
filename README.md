@@ -26,7 +26,7 @@
       <h3 align="center">Project "ตบหน้าระบบราชการ" (SDB)</h3>
       <div align="center">
         <a href="https://github.com/chakronwork/education-management-system" target="_blank">
-          <img src="https://via.placeholder.com/400x200.png?text=School+Dashboard" alt="School Dashboard Project" />
+          <img src="https://i.postimg.cc/rsmkthyB/7f105568-ec56-4658-bd1c-2afa767f1c12.jpg" alt="School Dashboard Project" />
         </a>
         <p>
           An education management system designed to streamline school operations.

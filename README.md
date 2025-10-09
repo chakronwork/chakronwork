@@ -22,20 +22,26 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Project "ตบหน้าระบบราชการ" (SDB - School Dashboard)</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">Project "ตบหน้าระบบราชการ" (SDB)</h3>
+      <div align="center">
+        <a href="https://github.com/chakronwork/education-management-system" target="_blank">
+          <img src="https://via.placeholder.com/400x200.png?text=School+Dashboard" alt="School Dashboard Project" />
+        </a>
+        <p>
+          An education management system designed to streamline school operations.
+        </p>
         <p>
           <a href="https://github.com/chakronwork/education-management-system" target="_blank">
             <b>View Code</b>
           </a> | 
-          <a href="https://smart-queue-system-sepia.vercel.app" target="_blank">
+          <a href="#" target="_blank">
             <b>Live Demo</b>
           </a>
         </p>
       </div>
     </td>
-
-   <td width="50%">
+    <td width="33%" valign="top">
       <h3 align="center">Smart Queue System</h3>
       <div align="center">
         <a href="https://github.com/chakronwork/smart-queue-system" target="_blank">
@@ -54,8 +60,7 @@
         </p>
       </div>
     </td>
-    
-    <td width="50%">
+    <td width="33%" valign="top">
       <h3 align="center">E-commerce Website (PHP)</h3>
       <div align="center">
         <a href="https://bvvip.shop/" target="_blank">
@@ -65,7 +70,6 @@
           A fully functional e-commerce platform with product listings, cart, and checkout using PHP & MySQL.
         </p>
         <p>
-          <!-- Important: Add the link to your code repository here -->
           <a href="#" target="_blank">
             <b>View Code</b>
           </a> | 
